@@ -1,0 +1,11 @@
+.imutability_page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.btn {
+  min-width: 200px;
+  min-height: 30px;
+}
